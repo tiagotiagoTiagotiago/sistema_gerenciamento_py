@@ -23,13 +23,13 @@ Este é um sistema simples de gerenciamento de empréstimo de produtos, constru�
 1. Clone este repositório em sua máquina local:
 
    ```bash
-   git clone https://github.com/seu_usuario/sistema-emprestimo-produtos.git
+   https://github.com/tiagotiagoTiagotiago/sistema_gerenciamento_py.git
    ```
 
 2. Navegue até o diretório do projeto:
 
    ```bash
-   cd sistema-emprestimo-produtos
+   cd 
    ```
 
 3. Instale as dependências usando pip:
