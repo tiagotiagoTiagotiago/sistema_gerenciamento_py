@@ -51,8 +51,12 @@ Este é um sistema simples de gerenciamento de empréstimo de produtos, constru�
 
 6. O servidor estará em execução em `http://localhost:5000`.
 
-## Uso
 
-- Use o Postman ou qualquer outra ferramenta de API para testar as funcionalidades CRUD de Produtos e Funcionários.
-- Para realizar empréstimos, consulte a seção "Como Testar o Empréstimo no Postman" neste README.
+Criar um ambiente virtual:
+
+python3 -m venv venv
+Ativar o ambiente virtual (no Windows):
+venv\Scripts\activate
+
+
 
